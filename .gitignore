@@ -1,8 +1,5 @@
 .idea
-db.sqlite3
-**/migrations/*
-!**/migrations/__init__.py
-!.gitignore
+# db.sqlite3
 env
 venv
 all_image_code
